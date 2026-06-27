@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<xml>
+	<Name value="LargeBackpackMod" />
+	<DisplayName value="Large Backpack Mod" />
+	<Description value="Increases player backpack size to 96 slots" />
+	<Author value="USMCsky" />
+	<Version value="1.0.0" />
+	<Website value="" />
+</xml>

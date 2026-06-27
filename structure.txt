@@ -1,0 +1,14 @@
+[Your Server Folder]
+└── Mods
+    └── LargeBackpackMod
+        ├── ModInfo.xml
+        └── Config
+            ├── entityclasses.xml
+            ├── loot.xml
+            ├── XUi
+            │   ├── windows.xml
+            │   ├── controls.xml
+            │   └── xui.xml
+            └── XUi_Common
+                └── styles.xml
+
