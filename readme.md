@@ -2,6 +2,7 @@
 
 This project is a mod designed for 7 DAYS TO DIE, focusing on enhancing the backpack with 96 slots. 
 The mod utilizes XML configuration files to define entities, loot tables, and user interface elements.
+GOOD for V2.6 - Confirmed broken in the latest 3.0 update.
 
 ## 🌟 Features
 
